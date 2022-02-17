@@ -1,12 +1,7 @@
-# Project Connect
+# My Basic Node JS API
+
+CRUD capabilities
 
 Dependencies
 npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
 npm i -D nodemon concurrently
-
-Create Backend folder
-    - routes / api
-    - models
-
-npx create-react-app@5.0.0 frontend
-create proxy in Frontend package.json
